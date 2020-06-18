@@ -1,0 +1,13 @@
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\bin\Debug\netcoreapp3.1\ExiFood.exe
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\bin\Debug\netcoreapp3.1\ExiFood.deps.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\bin\Debug\netcoreapp3.1\ExiFood.runtimeconfig.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\bin\Debug\netcoreapp3.1\ExiFood.runtimeconfig.dev.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\bin\Debug\netcoreapp3.1\ExiFood.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\bin\Debug\netcoreapp3.1\ExiFood.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\obj\Debug\netcoreapp3.1\ExiFood.csprojAssemblyReference.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\obj\Debug\netcoreapp3.1\ExiFood.csproj.CoreCompileInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\obj\Debug\netcoreapp3.1\ExiFood.AssemblyInfoInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\obj\Debug\netcoreapp3.1\ExiFood.AssemblyInfo.cs
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\obj\Debug\netcoreapp3.1\ExiFood.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\obj\Debug\netcoreapp3.1\ExiFood.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\ExiFood\obj\Debug\netcoreapp3.1\ExiFood.genruntimeconfig.cache

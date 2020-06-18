@@ -14,7 +14,7 @@ namespace ExiFood
         }
         public string MostrarDados()
         {
-            return $"O restaurante {NomeFantasia} se localiza em {Endereco}.";
+            return $"O restaurante {NomeFantasia} se localiza {Endereco}.";
         }
     }
 }
