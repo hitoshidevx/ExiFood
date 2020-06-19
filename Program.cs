@@ -6,15 +6,19 @@ namespace ExiFood
     {
         static void Main(string[] args)
         {
-            Restaurante restaurante = new Restaurante("doguinho do zé", "ali na esquina");
-            Console.WriteLine(restaurante.MostrarDados());
+            Restaurante doguinho = new Restaurante("doguinho do zé", "ali na esquina");
+            Console.WriteLine(doguinho.MostrarDados());
             Console.WriteLine("-----------------------------------------------------------");
             
-            Cliente cliente = new Cliente("Hitoshi", "rua paulo leite de siqueira, 1188");
-            Console.WriteLine(cliente.MostrarDados());
+            Cliente hitoshi = new Cliente("Hitoshi", "rua paulo leite de siqueira, 1188");
+            Console.WriteLine(hitoshi.MostrarDados());
             Console.WriteLine("-----------------------------------------------------------");
             
-            Pedido pedido = new Pedido("");
+            Pedido strogonoff = new Pedido();
+            strogonoff.Cliente = hitoshi.Nome;
+            strogonoff.Restaurante = doguinho.NomeFantasia;
+            Console.WriteLine(strogonoff.EntregarPedido("Fejuca", "Crédito"));
+            
         }
     }
 }
