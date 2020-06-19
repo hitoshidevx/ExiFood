@@ -8,12 +8,8 @@ namespace ExiFood
         public Cliente(string _nome){
             this.Nome = _nome;
         }
-        public Cliente(string _nome, string _enderecoatual){
-            this.Nome = _nome;
-            this.EnderecoAtual = _enderecoatual;
-        }
         public string MostrarDados(){
-            return $"{Nome} (você) se localiza em {EnderecoAtual}.";
+            return $"Cliente: {Nome} \nEndereço: {EnderecoAtual}.\n";
         }
     }
 }
